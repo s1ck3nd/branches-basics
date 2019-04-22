@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	printf("Hello world\n");
+	char sim = "!";
+	printf("Hello world");
+	printf("%c \n",sim);
 }
