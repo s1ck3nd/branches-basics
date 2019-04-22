@@ -3,5 +3,5 @@ int main()
 {
 	char sim = "!";
 	printf("Hello world");
-	printf("%c \n",sim);
+	for(int i=0;i<2;i++)printf("%c",sim);
 }
